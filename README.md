@@ -1,1 +1,2 @@
-# C40-Activity
+# C40RV_SpeedRacer_StudentActivity
+Student Activity
